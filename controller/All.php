@@ -1,4 +1,6 @@
 <?php
+	
+// Everything  is just in one class temporary
 class All  {
 	
 	 // driver, database and host
