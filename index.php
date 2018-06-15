@@ -82,7 +82,6 @@ if(isset($_SESSION["second"])) {
  
 	}
 }
-//echo '<pre>',print_r($_SESSION,1),'</pre>';
 
 ?>
 <!DOCTYPE html>
